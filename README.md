@@ -1,2 +1,2 @@
-# ptv-watcher
-WordPress plugin for finding and displaying PlaysTV videos using shortcodes.
+# PTV Watcher
+A WordPress plugin for searching and displaying PlaysTV highlights on your website using shortcodes.
